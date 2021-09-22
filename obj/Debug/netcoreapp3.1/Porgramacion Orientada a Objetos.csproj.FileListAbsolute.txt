@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Porgramacion Orientada a Objetos\bin\Debug\netcoreapp3.1\Porgramacion Orientada a Objetos.exe
+C:\Users\user\source\repos\Porgramacion Orientada a Objetos\bin\Debug\netcoreapp3.1\Porgramacion Orientada a Objetos.deps.json
+C:\Users\user\source\repos\Porgramacion Orientada a Objetos\bin\Debug\netcoreapp3.1\Porgramacion Orientada a Objetos.runtimeconfig.json
+C:\Users\user\source\repos\Porgramacion Orientada a Objetos\bin\Debug\netcoreapp3.1\Porgramacion Orientada a Objetos.runtimeconfig.dev.json
+C:\Users\user\source\repos\Porgramacion Orientada a Objetos\bin\Debug\netcoreapp3.1\Porgramacion Orientada a Objetos.dll
+C:\Users\user\source\repos\Porgramacion Orientada a Objetos\bin\Debug\netcoreapp3.1\Porgramacion Orientada a Objetos.pdb
+C:\Users\user\source\repos\Porgramacion Orientada a Objetos\obj\Debug\netcoreapp3.1\Porgramacion Orientada a Objetos.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Porgramacion Orientada a Objetos\obj\Debug\netcoreapp3.1\Porgramacion Orientada a Objetos.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Porgramacion Orientada a Objetos\obj\Debug\netcoreapp3.1\Porgramacion Orientada a Objetos.AssemblyInfo.cs
+C:\Users\user\source\repos\Porgramacion Orientada a Objetos\obj\Debug\netcoreapp3.1\Porgramacion Orientada a Objetos.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Porgramacion Orientada a Objetos\obj\Debug\netcoreapp3.1\Porgramacion Orientada a Objetos.dll
+C:\Users\user\source\repos\Porgramacion Orientada a Objetos\obj\Debug\netcoreapp3.1\Porgramacion Orientada a Objetos.pdb
+C:\Users\user\source\repos\Porgramacion Orientada a Objetos\obj\Debug\netcoreapp3.1\Porgramacion Orientada a Objetos.genruntimeconfig.cache
