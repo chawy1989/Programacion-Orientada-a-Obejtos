@@ -43,7 +43,13 @@ namespace Porgramacion_Orientada_a_Objetos
             }
         }
         //Instruccion de propiedades automaticas
-        public string Nombre { get; set; }
+        
+        public string Nombre
+        {
+            get { return nombre; }
+            set { nombre = value; }
+        }
+        //public string Nombre { get; set; }
         public char Genero { get; set; }
         public DateTime FechaNacimiento { get; set; }
         public string Dpi { get; set; }
